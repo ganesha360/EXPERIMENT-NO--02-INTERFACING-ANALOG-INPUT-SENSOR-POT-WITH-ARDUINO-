@@ -67,7 +67,38 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
- 
+ ```python
+int led=4;
+int sensorpot;
+
+void setup()
+{
+  pinMode(led, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  sensorpot=analogRead(A0);
+  //Serial.print("data=");
+  Serial.println(sensorpot);
+  delay(50);
+  if(sensorpot>500)
+  {
+    digitalWrite(led,HIGH);
+      delay(100);
+    digitalWrite(led,LOW);
+      delay(100);
+  }
+  else
+  {
+    digitalWrite(led,LOW);
+      delay(100);
+  }
+    
+  
+}
+```
 
 
 
