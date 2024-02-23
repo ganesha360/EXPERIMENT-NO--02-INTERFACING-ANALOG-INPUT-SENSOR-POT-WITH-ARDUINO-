@@ -102,18 +102,15 @@ void loop()
 
 
 
+## CIRCUIT:
+![sdi1](https://github.com/ganesha360/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/120884552/63e8bdd9-40dc-45ff-aa5d-16af54b167f3)
 
+## SCHEMATIC DIAGRAM:
+![sdi](https://github.com/ganesha360/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/120884552/0f87c32f-46ca-43ec-a37a-8e560fbfbbab)
 
-
-
-
-
-**
-**Simulation output:** 
-**
-
-
-[My image](username.github.com/repository/img/image.jpg)
+## Simulation output:
+## SERIAL MONITOR:
+![sm](https://github.com/ganesha360/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/120884552/ac5fe19e-bbed-4b0f-9bbb-7ea6483b2564)
 
 
 
@@ -121,4 +118,5 @@ void loop()
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+## RESULT: 
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
